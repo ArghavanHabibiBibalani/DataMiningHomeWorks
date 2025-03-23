@@ -1,0 +1,64 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio Cache and Settings
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.cache
+*.sqlite
+*.sqlite3
+*.db
+
+# Debug and Release
+Debug/
+Release/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Logs and Database
+*.log
+*.sql
+*.mdf
+*.ldf
+
+# User Specific
+*.rsuser
+*.userprefs
+*.pidb
+*.psess
+*.tmp
+
+# Generated Files
+*.csproj.user
+*.csproj.vspscc
+*.vbproj.user
+*.vbproj.vspscc
+*.dbmdl
+*.jfm
+
+# ASP.NET Files
+*.publish/
+*.bak
+App_Data/
+
+# Unity Specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/Scenes/.*.meta
+UserSettings/
+MemoryCaptures/
